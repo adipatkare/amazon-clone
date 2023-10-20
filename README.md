@@ -1,2 +1,3 @@
 # amazon-clone
-This is a amazon clone website for study purpose.
+This is an Amazon clone website for study purposes.
+Author - Aditya Patkare.
